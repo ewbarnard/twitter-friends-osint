@@ -1,4 +1,11 @@
-# Twitter Friends Learning OSINT
+# Open Source Intelligence (OSINT)
+
+Quick Links:
+
+- [Results](Results/index.md) - Research, documents, amazing stuff
+- [Learning](Learning/index.md) - Learning how to do OSINT yourself
+
+## About Us
 
 Is there some way to **teach** open source intelligence techniques (OSINT)?
 
@@ -7,9 +14,10 @@ publicly available plane numbers, all sorts of things. If we could teach each
 other how we each do OSINT or other research, can we do even better?
 "Many hands make light work."
 
-This project does *not* aim to coordinate researchers. Nor do we aim to publish
+This project does *not* aim to coordinate researchers. Nor do we aim to directly publish
 OSINT research results or findings. Authors generally prefer to publish and control
-their own work, in any event!
+their own work in any event. We do plan to *link to* published findings, discussions,
+twitter threads, and articles.
 
 In software development, the way to be a "10X developer" is not to type ten times
 faster. No, the way is to mentor ten people and bring them up to your level.
@@ -23,7 +31,7 @@ We aim to:
 
 - Teach research techniques
 - Provide curated links to more resources
-- Tips and tricks learned in practice
+- Share tips and tricks learned in practice
 
 ## Project Coordinators
 
@@ -55,12 +63,12 @@ tutorials for others, we're doing the community a huge service.
 
 There are a **lot** of Twitter threads out there, blog articles, background material,
 etc., related to these investigations. Wouldn't it be great to have a central
-**annotated** index of all these interconnected threads? Since GitHub does get indexed
+**annotated** index of all these interconnected threads? Since GitHub Pages do get indexed
 by Google, any resource we create becomes searchable via google. Thus it would be
 useful to have a *description* for each link or thread.
 
 Basically, every time someone shouts, "Hey FBI (or Mueller), you should see this," we
-can add an annotated link to that, to our repository. Would you like to help out by
+can add an annotated link to that, in our repository. Would you like to help out by
 contributing these annotated links?
 
 ## How To Contribute
@@ -79,5 +87,3 @@ GitHub. Just contact Tom or Ed on Twitter (links above), or join this Twitter th
 We need to create a proper "How to Contribute" document, and tutorials for using GitHub.
 If you're an OSS (Open Source Software) person and could help with these basic
 "getting started" documents, please do! We also need a "Code of Conduct" document.
-
-Last update: 2018-05-19
