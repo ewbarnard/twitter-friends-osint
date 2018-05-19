@@ -1,2 +1,1 @@
-# twitter-friends-osint
-Twitter friends learning OSINT
+# Twitter friends learning OSINT
