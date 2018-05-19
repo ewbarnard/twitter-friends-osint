@@ -40,7 +40,10 @@ background, or lack thereof. We *welcome* folks who are *not* tech-savvy!
 Some tutorials to consider. If/when you get stuck, do google searches to get answers,
 and/or ask us on Twitter. We'll do our best to help!
 
-- [The beginner's guid to contributing to a GitHub project](https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/) by Rob Allen. Aimed at software developers new to open source projects.
+> *Your first step is to sign up for your own GitHub account*.
+  Sign up here: [https://github.com](https://github.com).
+
+- [The beginner's guide to contributing to a GitHub project](https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/) by Rob Allen. Aimed at software developers new to open source projects.
 
 - [Creating a pull request](https://help.github.com/articles/creating-a-pull-request/),
   part of the official GitHub documentation.
