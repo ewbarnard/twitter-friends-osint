@@ -4,7 +4,7 @@ Quick Links:
 
 - [Results](Results/index.md) - Research, documents, amazing stuff
 - [Learning](Learning/index.md) - Learning how to do OSINT yourself
-- [Contributing](Contributing/contributing.md) - Easily add to our community project *right now*
+- [Contributing](Contributing/index.md) - Easily add to our community project *right now*
 
 ## About Us
 
