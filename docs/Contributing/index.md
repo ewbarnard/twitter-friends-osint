@@ -1,5 +1,7 @@
 # Contributing
 
+> **_I WANT TO CONTRIBUTE RIGHT NOW. TELL ME. QUICKLY:_** [Click here for the short version](quick-start.md)
+
 Everything here is written using "markdown". It's just plain typing, with a few conventions
 for adding titles/headings and formatting Web links.
 
