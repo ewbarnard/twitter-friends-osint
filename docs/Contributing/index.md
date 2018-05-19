@@ -27,5 +27,7 @@ which is the site main page in "markdown" format.
 Once you have reached `index.md`, click on the "raw" button to see the
 [index.md page content](https://raw.githubusercontent.com/ewbarnard/twitter-friends-osint/master/docs/index.md). That's what the main page looks like as a Markdown file.
 
-You should also see this file, `contributing.md`, when you browse the `docs` folder.
+You should also see this file, `index.md`, when you browse
+to the `Contributing` folder inside
+the `docs` folder.
 Again, click on the "raw" button, and you can see what this file looks like.
